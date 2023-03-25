@@ -21,8 +21,8 @@ I'm a passionate .NET backend developer with experience in building scalable, hi
 <a href="https://github.com/b0t0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=b0t0s&show_icons=true&theme=dark&line_height=27" alt="Your Name's GitHub stats" />
 </a>
-<a href="https://github.com/your-github-username">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=b0t0s&theme=github_dark" alt="Your Name's GitHub activity graph" />
+<a href="https://github.com/b0t0s">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=b0t0s&theme=github_dark" alt="b0t0s" />
 </a>
 
 ## 📦 Version Control
