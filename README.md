@@ -1,6 +1,6 @@
 # Hi there, I'm ß070$ 👋
 
-![Profile views](https://gpvc.arturio.dev/your-github-username)
+![Profile views](https://gpvc.arturio.dev/b0t0s)
 
 I'm a passionate .NET backend developer with experience in building scalable, high-performance applications. I love learning new technologies and automate every action.
 
@@ -21,10 +21,18 @@ I'm a passionate .NET backend developer with experience in building scalable, hi
 <a href="https://github.com/b0t0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=b0t0s&show_icons=true&theme=dark&line_height=27" alt="Your Name's GitHub stats" />
 </a>
+<a href="https://github.com/your-github-username">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github_dark" alt="Your Name's GitHub activity graph" />
+</a>
+
+## 📦 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Get in touch
 
-- LinkedIn: [bohdan-botosh](https://www.linkedin.com/in/bohdan-botosh/)
-- Email: [gmail](mailto:b0t0sh@proton.me)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-botosh/)
+- Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b0t0sh@proton.me)
+- Steam: [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/AnSeGoAn/)
 
 ⭐️ From [ß070$](https://github.com/b0t0s)
