@@ -29,10 +29,12 @@ I'm a passionate .NET backend developer with experience in building scalable, hi
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🚀 Private Repositories
+
+I have several private repositories for various projects. If you're interested in learning more about my work or would like to collaborate, please feel free to [contact me](mailto:b0t0sh@proton.me) directly. I'd be happy to discuss the possibility of granting you access to the repositories or sharing more details about the projects.
+
 ## 📫 Get in touch
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-botosh/)
 - Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b0t0sh@proton.me)
 - Steam: [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/AnSeGoAn/)
-
-⭐️ From [ß070$](https://github.com/b0t0s)
