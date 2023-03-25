@@ -1,6 +1,9 @@
 # Hi there, I'm ß070$ 👋
 
 ![Profile views](https://gpvc.arturio.dev/b0t0s)
+### Not Quite Famous...
+### I'm steadily and slowly climbing the ladder of success
+
 
 I'm a passionate .NET backend developer with experience in building scalable, high-performance applications. I love learning new technologies and automate every action.
 
