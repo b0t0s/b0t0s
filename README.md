@@ -1,4 +1,4 @@
-# Hi there, I'm [ß070$] 👋
+# Hi there, I'm ß070$ 👋
 
 ![Profile views](https://gpvc.arturio.dev/your-github-username)
 
@@ -15,10 +15,10 @@ I'm a passionate .NET backend developer with experience in building scalable, hi
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/b0t0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/b0t0s">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&line_height=27" alt="Your Name's GitHub stats" />
 </a>
 
