@@ -1,10 +1,8 @@
 # Hi there, I'm ß070$ 👋
 
-I'm a passionate .NET backend developer with experience in building scalable, high-performance applications. I love learning new technologies and automate every action.
+I'm a software engineer with experience in building scalable, high-performance applications. I love learning new technologies and automate every action.
 
 Not Quite Famous...
-
-I'm steadily and slowly climbing the ladder of success
 
 ## 🔧 Technologies & Tools
 
@@ -30,9 +28,9 @@ I'm steadily and slowly climbing the ladder of success
 
 ## 🚀 Private Repositories
 
-I have several private repositories for various projects. If you're interested in learning more about my work or would like to collaborate, please feel free to [contact me](mailto:botoshbohdan@gmail.com) directly. I'd be happy to discuss the possibility of granting you access to the repositories or sharing more details about the projects.
+I have several private repositories for various projects. If you're interested in learning more about my work or would like to collaborate, please feel free to [contact me](mailto:bohdan.botosh@protonmail.com) directly. I'd be happy to discuss the possibility of granting you access to the repositories or sharing more details about the projects.
 
 ## 📫 Get in touch
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-botosh/)
-- Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:botoshbohdan@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bohdan.botosh@protonmail.com)
