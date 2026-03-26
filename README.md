@@ -4,7 +4,7 @@ I'm a software engineer with experience in building scalable, high-performance a
 
 Not Quite Famous...
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
@@ -13,11 +13,12 @@ Not Quite Famous...
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927)
 
-## 🚀 Private Repositories
+## Private Repositories
 
 I have several private repositories for various projects. 
 If you're interested in learning more about my work or would like to collaborate, please feel free to [contact me](mailto:bohdan.botosh@protonmail.com) directly.
-## 📫 Get in touch
+
+## Get in touch
 
 - Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bohdan.botosh@protonmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-botosh/)
