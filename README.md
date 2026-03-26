@@ -1,4 +1,4 @@
-# Hi there, I'm ß070$ 👋
+# Whats up?
 
 I'm a software engineer with experience in building scalable, high-performance applications. I love learning new technologies and automate every action.
 
